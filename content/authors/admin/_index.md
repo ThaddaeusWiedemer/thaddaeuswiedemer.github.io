@@ -70,7 +70,7 @@ education:
   - area: M.Sc. Electrical Engineering and Information Technology
     institution: Karlsruhe Institute of Technology
     date_start: 2018-10-01
-    date_end: 2021-11-5
+    date_end: 2021-11-05
     summary: |
       GPA: 4.0/4.0
 
