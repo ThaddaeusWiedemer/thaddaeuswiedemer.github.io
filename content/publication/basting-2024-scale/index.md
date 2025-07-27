@@ -4,7 +4,7 @@ abstract: "Objects can take up an arbitrary number of pixels in an image: Object
 authors:
 - Mark Basting
 - Robert-Jan Bruintjes
-- Thaddäus Wiedemer
+- admin
 - Matthias Kümmerer
 - Matthias Bethge
 - Jan van Gemert

@@ -6,7 +6,7 @@ authors:
 - Jan Mathias Kohler
 - Tobias Gindele
 - Leon Hetzel
-- Jakob Thaddäus Wiedemer
+- admin
 - Sven Behnke
 date: '2019-08-07'
 publication_types:

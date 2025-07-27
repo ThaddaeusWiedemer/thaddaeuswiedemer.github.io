@@ -4,7 +4,7 @@ abstract: "Out-of-Domain (OOD) generalization is the ability of a model trained 
 authors:
 - Prasanna Mayilvahanan
 - Roland S Zimmermann
-- Thaddäus Wiedemer
+- admin
 - Evgenia Rusak
 - Attila Juhos
 - Matthias Bethge

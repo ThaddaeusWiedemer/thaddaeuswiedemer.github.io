@@ -3,7 +3,7 @@
 title: Thaddäus Wiedemer
 
 # Name pronunciation (optional)
-name_pronunciation: taˈdɛːʊs
+# name_pronunciation: taˈdɛːʊs
 
 # Full name (for SEO)
 first_name: Jakob Thaddäus
@@ -39,18 +39,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:thaddaeus.wiedemer@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/thwiedemer
   - icon: brands/github
     url: https://github.com/ThaddaeusWiedemer
+  - icon: brands/x
+    url: https://x.com/thwiedemer
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/thaddaeuswiedemer/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=aeCiRSYAAAAJ&view_op=list_works&sortby=pubdate
-  - icon: academicons/orcid
-    url: https://orcid.org/0009-0003-6280-0804
   - icon: academicons/arxiv
     url: https://arxiv.org/search/cs?searchtype=author&query=Wiedemer%2C+T
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0003-6280-0804
 
 interests:
   # - Artificial Intelligence
@@ -181,6 +181,7 @@ education:
 
 ## About Me
 
-I'm a 4th-year PhD student in the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/). I have worked on generalization, robustness, and benchmarking for large vision-language, language, and video models.
+I'm a 4th-year PhD student in the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/), currently interning at [Google Deepmind Toronto](https://deepmind.google/).
+Most of my PhD focused on generalization, robustness, and benchmarking for large vision-language, language, and video models.
 
 My current research investigates _how generative video models can be used for multi-modal reasoning_ and _how post-training can be leveraged for exploration beyond the pretraining data_. 
