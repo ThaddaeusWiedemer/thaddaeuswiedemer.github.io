@@ -7,7 +7,7 @@ authors:
   - Ameya Prabhu
   - Matthias Bethge
   - Wieland Brendel
-date: 2025-02-17
+date: 2024-12-14
 publication: NeurIPS 2024 Workshop
 # url_pdf: https://arxiv.org/pdf/2502.18326
 url_pdf: https://openreview.net/pdf?id=NDXoM1wYgl

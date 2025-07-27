@@ -46,7 +46,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/thaddaeuswiedemer/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=en&user=aeCiRSYAAAAJ&view_op=list_works&sortby=pubdate
+    url: https://scholar.google.com/citations?user=aeCiRSYAAAAJ
   - icon: academicons/arxiv
     url: https://arxiv.org/search/cs?searchtype=author&query=Wiedemer%2C+T
   - icon: academicons/orcid
