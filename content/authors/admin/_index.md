@@ -63,7 +63,7 @@ education:
     date_start: 2022-04-01
     # date_end: 2026-01-31
     summary: |
-      Supervised by [Wieland Brendel](https://robustml.is.mpg.de/) and [Matthias Bethge](https://bethgelab.org/).
+      Supervised by [Wieland Brendel](https://robustml.is.mpg.de/) and [Matthias Bethge](https://bethgelab.org/)
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -72,15 +72,15 @@ education:
     date_start: 2018-10-01
     date_end: 2021-11-05
     summary: |
-      GPA: 4.0/4.0
+      GPA: 4.0/4.0 (top 1%)
 
-      Including 2-year exchange to Tsinghua University Beijing
+      Including 2-year stay at Tsinghua University, Beijing
   - area: B.Sc. Electrical Engineering and Information Technology
     institution: Karlsruhe Institute of Technology
     date_start: 2015-10-01
     date_end: 2018-08-16
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.8/4.0 (top 3 of ~250 students)
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -184,4 +184,4 @@ education:
 I'm a 4th-year PhD student in the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/), currently interning at [Google Deepmind Toronto](https://deepmind.google/).
 Most of my PhD focused on generalization, robustness, and benchmarking for large vision-language, language, and video models.
 
-My current research investigates _how generative video models can be used for multi-modal reasoning_ and _how post-training can be leveraged for exploration beyond the pretraining data_. 
+My current research investigates _how generative video models can improve multi-modal reasoning_ and _how language model post-training can enable exploration beyond the pretraining data_. 
