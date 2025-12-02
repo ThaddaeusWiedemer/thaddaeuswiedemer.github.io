@@ -14,4 +14,5 @@ authors:
 date: 2025-09-24
 url_project: https://video-zero-shot.github.io/
 url_pdf: https://arxiv.org/pdf/2509.20328
+url_video: https://www.youtube.com/watch?v=lPxfeTwimAk
 ---
