@@ -20,24 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Max Planck Institute for Intelligent Systems
-    url: https://is.mpg.de/
-  - name: University of Tübingen
-    url: https://uni-tuebingen.de/en/
-  - name: ELLIS Institute Tübingen
-    url: https://institute-tue.ellis.eu/
-  - name: Tübingen AI Center
-    url: https://tuebingen.ai/
+  - name: Google DeepMind
+    url: https://deepmind.google/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:thaddaeus.wiedemer@gmail.com'
+    url: 'mailto:thwiedemer@google.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/ThaddaeusWiedemer
@@ -81,12 +75,12 @@ education:
     date_end: 2018-08-16
     summary: |
       GPA: 3.8/4.0 (top 3 of ~250 students)
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
+work:
+  - position: Research Scientist
+    company_name: Google DeepMind
+    company_url: https://deepmind.google/
 #     company_logo: ''
-#     date_start: 2021-01-01
+    date_start: 2026-03-09
 #     date_end: ''
 #     summary: |2-
 #       Responsibilities include:
@@ -180,8 +174,8 @@ education:
 ---
 
 ## About Me
+I recently joined [Google DeepMind Zürich](https://deepmind.google/) as a Research Scientist and am wrapping up my PhD in the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/).
 
-I'm a 4th-year PhD student in the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/), currently interning at [Google Deepmind Toronto](https://deepmind.google/).
-Most of my PhD focused on generalization, robustness, and benchmarking for large vision-language, language, and video models.
+My current research investigates _how generative video models can improve multi-modal reasoning and visual intelligence_.
 
-My current research investigates _how generative video models can improve multi-modal reasoning_ and _how language model post-training can enable exploration beyond the pretraining data_. 
+The underlying theme of my PhD was how to learn robust representations—a topic I epxlored theoratically and empirically in large vision-language, language, and video models. Throughout this time, I was fortunate to work with and be guided by [Wieland Brendel](https://brendel-group.github.io/), [Matthias Bethge](https://bethgelab.org/), as well as [Robert Geirhos](https://robertgeirhos.com/) and [Priyank Jaini](https://priyankjaini.github.io/) during my 2025 internship at Google DeepMind Toronto.
