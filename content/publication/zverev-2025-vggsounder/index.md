@@ -12,6 +12,7 @@ date: 2025-06-09
 publication: ICCV 2025
 publication_types:
 - paper-conference
+url_pdf: https://openaccess.thecvf.com/content/ICCV2025/papers/Zverev_VGGSounder_Audio-Visual_Evaluations_for_Foundation_Models_ICCV_2025_paper.pdf
 url_video: https://www.youtube.com/watch?v=Ab4G6q_y8rs
 url_project: https://vggsounder.github.io/
 ---
